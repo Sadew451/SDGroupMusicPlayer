@@ -97,7 +97,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
 @errors
 async def play(_, message: Message):
 
-    lel = await message.reply("🔄 **Processing** @dihanrandila")
+    lel = await message.reply("🔄 **Processing** @SDBOTsZ")
     sender_id = message.from_user.id
     sender_name = message.from_user.first_name
 
