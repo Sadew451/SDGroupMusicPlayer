@@ -19,7 +19,7 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url="https://github.com/Sadew451/GroupMusicPlayerBot")
+                        "🛠 Source Code 🛠", url="https://github.com/Sadew451/EzilaXMusicBot")
                   ],[
                     InlineKeyboardButton(
                         "💬 Group", url="https://t.me/SDBOTz"
