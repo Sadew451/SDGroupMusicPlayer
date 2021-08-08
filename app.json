@@ -1,9 +1,9 @@
 {
-  "name": "EzilaXMusic Bot",
+  "name": "SD GroupMusic Bot",
   "logo": "https://telegra.ph/file/e46eca38f996901b258cd.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/Sadew451/EzilaXMusicBot",
+  "repository": "https://github.com/Sadew451/SD-GroupMusicBot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
