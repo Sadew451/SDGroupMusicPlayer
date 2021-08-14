@@ -7,7 +7,7 @@ from helpers.filters import other_filters2
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
-    await message.reply_sticker("CAACAgUAAx0CQ2C8OgACJONhBArvX6vNWpIbK9InBJf8WHUEsAACBgMAAobvIFRqH2iAi7BOMiAE")
+    await message.reply_sticker("CAACAgIAAx0CQ2C8OgACPTFhF8RphRAh0XC4OYaBee8ONWCrGAACGQ0AAuJm8UsXOff5HjA9DiAE")
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎵
 
@@ -19,7 +19,7 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url="https://github.com/Sadew451/EzilaXMusicBot")
+                        "🛠 Source Code 🛠", url="https://github.com/Sadew451/SD-GroupMusicBot")
                   ],[
                     InlineKeyboardButton(
                         "💬 Group", url="https://t.me/SDBOTz"
@@ -29,7 +29,7 @@ Add me to your group and play music freely!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/EzilaXMusicsbot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/SDStreamMusicBot?startgroup=true"
                         
                      ),
                     InlineKeyboardButton(
