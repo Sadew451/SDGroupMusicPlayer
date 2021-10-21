@@ -1,4 +1,4 @@
-<h2 align="centre">Telegram SD-GroupMusicPlayer Bot 🎵</h2>
+<h2 align="centre">GroupMusicPlayer Bot 🎵</h2>
 
 ### A bot that can play music on telegram group's voice Chat ❤️
 
