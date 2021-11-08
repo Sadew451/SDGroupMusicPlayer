@@ -2,7 +2,6 @@
 
 ### A bot that can play music on telegram group's voice Chat ❤️
 
-
 <h3>Requirements </h3>
 
 - FFmpeg
