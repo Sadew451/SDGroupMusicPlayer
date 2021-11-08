@@ -27,7 +27,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/SDGroupMusicPlayer)
 
-Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrogram string session
+Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrogram string session `not working`
 
 ### Credits
 
